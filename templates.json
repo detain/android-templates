@@ -1,0 +1,11 @@
+{
+    "version": 0.1,
+    "min_plugin": 0.1,
+    "source": [
+        {
+            "name":"EmptyActivity",
+            "data":"https://raw.githubusercontent.com/znyang/template-empty-activity/master/EmptyActivity/template.xml",
+            "file":"https://raw.githubusercontent.com/znyang/template-empty-activity/master/EmptyActivity.rar"
+        }
+    ]
+}
